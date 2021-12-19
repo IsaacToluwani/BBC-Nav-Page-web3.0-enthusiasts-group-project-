@@ -1,0 +1,137 @@
+ *{
+    font-family: Arial, Helvetica, sans-serif;
+ }
+ .container{
+     background-color: black;
+     height: px;
+     flex-direction: row;
+     margin: 0%;
+     padding: 6px;
+ }
+ .nav{color: white;
+     background-color: black;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     gap: 7px;
+     flex-direction: ;
+     text-align: center;
+     height: px;
+     /* border: 1px solid #ccc; */
+
+ }
+/* / nav {
+    float: lef;
+    border: px   #ccc;
+    width: 100px;
+    background-color: black ;
+    padding: 10px;
+    margin: px;
+    vertical-align: baseline; */
+
+
+a:link{
+
+   color: white;
+    text-decoration:  none;
+    font-size: 15px;
+}
+
+.go{
+    color: white;
+    background-color: black;
+    text-align: center;
+    padding: 9px;
+    margin: -4px;
+    flex-basis: ;
+    border: 1px solid #ccc;
+    border-top-color: black;
+    border-bottom: black;
+    min-width: 60px;
+}
+.BBC{
+    background-color: whit;
+    color: black;
+    font-weight: bold;
+    border-left: black;
+}
+.Ba{ background-color: white;
+    padding: 2px;
+    margin: 2px;
+}
+.Bb{ background-color: white;
+    padding: 2px;
+    margin: 2px;
+}.C{ background-color: white;
+    padding: 2px;
+    margin: 2px;
+}
+.News{ min-width: 60px;
+
+}
+.account{
+width: 150px;
+}
+.Home.News.Sport.Reel.Worklife.Travel.Future.Culture:active{
+    color: chartreuse brown;
+}
+.account:hover{
+    border-bottom: crimson;
+}
+.News:hover{
+    color:  crimson;
+}
+.SPort:hover{
+    border-bottom: crimson;
+}
+.News:hover{
+    border-bottom: crimson;
+}
+.News:hover{
+    border-bottom: crimson;
+}
+.News:hover{
+    border-bottom: crimson;
+}
+/* .account{
+    color: whi
+   
+    height:50px;
+    text-align: end;
+} */
+.More{border-top: black;
+
+}
+.textarea{
+    color: black;
+    background-color: white;
+    text-align: left;
+    height: 5px;
+    align-self: center;
+    padding-left: 10px;
+    margin-left: 10px;
+    text-align: justify;
+    text-justify: distribute;
+}
+/* ontent: "";
+    background-image: url(img/idcta-icon-sprite.svg);
+    background-size: 22px;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: 0 2px;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-shrink: 0;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    line-height: 64px;
+    text-align: center;
+    height: 22px;
+    width: 22px; */
